@@ -195,7 +195,7 @@ If you reference this work, please cite the paper:
 ```
 @inproceedings{unorthodox2025tangible,
   title     = {Tangible Algorithmics: Physicalizing Abstract Mathematical Dynamics},
-  author    = {Department of Unorthodox Engineering},
+  author    = {Utah Hans, Utah Creates},
   year      = {2025},
   booktitle = {Proceedings / Leonardo (MIT Press) — Submission},
   url       = {https://github.com/your-org/your-repo/hci_paper.pdf}
